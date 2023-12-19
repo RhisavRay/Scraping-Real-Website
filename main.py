@@ -5,6 +5,9 @@ html_text = requests.get('https://www.nike.com/in/w/mens-running-shoes-37v7jznik
 
 soup = BeautifulSoup(html_text, 'lxml')
 
-productLinks = soup.find_all('a', class_ = 'product-card__img-link-overlay')
+productCards = soup.find_all('div', class_ = 'product-card')
 
-print(productLinks)
+for productCard in productCards:
+    productLink = productCard.find('a', class_ = 'product-card__link-overlay')
+
+    print(productLink)
