@@ -1,8 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
+
 import json
 
-mainSite = requests.get('https://www.nike.com/in/w/mens-running-shoes-37v7jznik1zy7ok').text
+
+mainSiteUrl = 'https://www.nike.com/in/w/mens-running-shoes-37v7jznik1zy7ok'
+
+mainSite = requests.get(mainSiteUrl).text
 soup = BeautifulSoup(mainSite, 'lxml')
 
 productInfo = []
