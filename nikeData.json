@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Nike Revolution 7",
+    "price": "\u20b9 3 695.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d71ffe7b-921c-4495-94cf-11c28bbf17b6/revolution-7-road-running-shoes-dC34tK.png"
+  },
+  {
+    "name": "",
+    "price": "\u20b9 14 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/124ef1bd-d20a-423d-9588-e8277775b699/infinityrn-4-road-running-shoes-mLRjcz.png"
+  },
+  {
+    "name": "Nike Pegasus 40 \"Eliud Kipchoge\"",
+    "price": "\u20b9 11 895.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/84cdecfe-c952-432b-9e01-b22126cfe197/pegasus-40-eliud-kipchoge-road-running-shoes-cRbXTK.png"
+  },
+  {
+    "name": "Nike InfinityRN 4",
+    "price": "\u20b9 14 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d4dbd7c8-3339-48eb-9692-74d266676703/infinityrn-4-road-running-shoes-SFXkMs.png"
+  },
+  {
+    "name": "Nike Juniper Trail 2 GORE-TEX",
+    "price": "\u20b9 10 295.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/55a7d456-5f28-48d3-a4a8-1279a4f85065/juniper-trail-2-gore-tex-waterproof-trail-running-shoes-9HQTmg.png"
+  },
+  {
+    "name": "Nike Pegasus Turbo Premium",
+    "price": "\u20b9 13 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/249df462-22d3-47b8-bfd8-c68823636423/pegasus-turbo-road-running-shoes-3jZs6q.png"
+  },
+  {
+    "name": "Nike Winflo 10",
+    "price": "\u20b9 8 695.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3d329c99-283e-4bc8-85fa-986c06c5bab0/wio-10-road-running-shoes-GBqQMW.png"
+  },
+  {
+    "name": "Nike Structure 25",
+    "price": "\u20b9 11 895.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/df88d282-47b4-4d5f-899d-2f4339977c7a/structure-25-road-running-shoes-Vnp1d0.png"
+  },
+  {
+    "name": "Nike Invincible 3",
+    "price": "\u20b9 16 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/82db9060-f855-48b4-87a0-33a3ca119524/invincible-3-road-running-shoes-QWRmLj.png"
+  },
+  {
+    "name": "Nike Vaporfly 3",
+    "price": "\u20b9 20 695.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a06b209f-8a78-467a-b03e-6d782a26b1cd/vaporfly-3-road-racing-shoes-xsDgvM.png"
+  },
+  {
+    "name": "Nike Juniper Trail 2",
+    "price": "\u20b9 7 095.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4e5752c4-d792-4c7c-b10b-d2acf9f2061c/juniper-trail-2-trail-running-shoes-PT4wqk.png"
+  },
+  {
+    "name": "Nike Downshifter 12",
+    "price": "\u20b9 3 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/38f18383-a5eb-40aa-b439-0f046190daf1/downshifter-12-road-running-shoes-kQLnZn.png"
+  },
+  {
+    "name": "Nike Alphafly 3 Proto",
+    "price": "\u20b9 22 795.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/74c43cb2-45ce-40bd-a32c-cc0163db5e22/alphafly-3-proto-road-racing-shoes-W112t4.png"
+  },
+  {
+    "name": "Nike Vaporfly 3",
+    "price": "\u20b9 22 695.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf1dc8d4-5d62-4892-a6d1-b63b4cd22767/vaporfly-3-road-racing-shoes-0z6Cln.png"
+  },
+  {
+    "name": "Nike Zoom Fly 5",
+    "price": "\u20b9 14 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ffb7f5f8-9414-46b0-9766-4a2f747ad4e2/zoom-fly-5-road-running-shoes-lkx7Zp.png"
+  },
+  {
+    "name": "Nike Alphafly 2",
+    "price": "\u20b9 22 795.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f9645056-9dc0-4b24-9006-57bf348e8f47/alphafly-2-road-racing-shoes-cVPHCD.png"
+  },
+  {
+    "name": "Nike Revolution 6",
+    "price": "\u20b9 3 695.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b05afb11-db22-461d-b94e-49bdc316b445/revolution-6-road-running-shoes-NC0P7k.png"
+  },
+  {
+    "name": "Nike Pegasus 40",
+    "price": "\u20b9 11 895.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/762dae57-203c-430b-b1ba-7c1b23f64d36/pegasus-40-road-running-shoes-3JpHzl.png"
+  },
+  {
+    "name": "Nike Revolution 7",
+    "price": "\u20b9 3 695.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d9a3920e-d792-4d84-950f-9673c4333bef/revolution-7-road-running-shoes-Ws2ZGl.png"
+  },
+  {
+    "name": "Nike Zoom Fly 5 'Eliud Kipchoge'",
+    "price": "\u20b9 14 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f88b2112-5136-4b75-9cd2-e0b6d4977932/zoom-fly-5-eliud-kipchoge-road-racing-shoes-GDfZfQ.png"
+  },
+  {
+    "name": "Nike Zoom Fly 5 Premium",
+    "price": "\u20b9 15 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a18649e1-a793-4057-8f75-adf978602608/zoom-fly-5-road-running-shoes-hPrw3h.png"
+  },
+  {
+    "name": "Nike Streakfly",
+    "price": "\u20b9 14 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/573ed48a-f6a6-4b81-91ee-445f1832cc84/streakfly-road-racing-shoes-V17qZm.png"
+  },
+  {
+    "name": "Nike Flex Experience Run 11",
+    "price": "\u20b9 4 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a0c72abc-f39e-49fb-b88f-69a5bbcd4bd9/flex-experience-run-11-road-running-shoes-rB6h46.png"
+  },
+  {
+    "name": "Nike Invincible 3",
+    "price": "\u20b9 16 995.00",
+    "imgUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e9f8c612-0b6b-4e4e-aaf8-af0d8b88b40c/invincible-3-road-running-shoes-Wwmmlp.png"
+  }
+]

@@ -30,4 +30,7 @@ for productCard in productCards:
 
 driver.quit()
 
-print(productInfo)
+with open('nikeData.json', 'w') as jsonFile:
+    json.dump(productInfo, jsonFile, indent = 2)
+
+print("Data saved to new JSON file!")
